@@ -4,7 +4,8 @@ This is a basic website preset to help you build your own site. It is already se
 linked together, so you can start right away! It also contains comments from me to help you understand the code.
 
 In 2 hours, your site can look like this:
-https://www.bit.ly/jbiernacik
+https://www.bit.ly/jbiernacik (MARKED AS NOT SAFE FOR SOME REASON, SO HERE THE SAFE DIRECT LINK: https://jbgmr.github.io/JanBiernacik/index.html )
+
 
 Not perfect, but it's alright!
 
