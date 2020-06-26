@@ -1,0 +1,29 @@
+p {
+  font-family: Arial, sans-serif;  /*Those are font families. change them to get a different font on the item specified (here: p (<p>))*/
+}
+
+h1 {
+  font-family: Arial, sans-serif;
+}
+
+h2 {
+  font-family: Arial, sans-serif;
+}
+
+h3 {
+  font-family: Arial, sans-serif;
+}
+
+h4 {
+  font-family: Arial, sans-serif;
+}
+
+h5 {
+  font-family: Arial, sans-serif;
+}
+
+h6 {
+  font-family: Arial, sans-serif;
+}
+
+/*The styles.css allows you to customize your html. You can also do it inside of the html, but many people prefer it like that */
